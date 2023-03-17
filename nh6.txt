@@ -1,1 +1,3 @@
-bkjb
+git vs github ?
+commands regularly used in gits?
+difference between push,pull and clone?
